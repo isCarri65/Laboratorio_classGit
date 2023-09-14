@@ -1,0 +1,21 @@
+Paso 0
+
+Git es un sistema de control de versiones que se utiliza para rastrear cambios en archivos y colaborar en proyectos de desarrollo de software. Sus principales funciones y usos incluyen:
+
+Gestión de versiones: Git registra todos los cambios realizados en un proyecto a lo largo del tiempo. Esto permite a los desarrolladores ver el historial completo de cambios, quién los realizó y cuándo.
+
+Colaboración: Git facilita la colaboración en proyectos de desarrollo de software. Varios desarrolladores pueden trabajar en un proyecto simultáneamente, y Git ayuda a fusionar sus cambios de manera controlada y a resolver conflictos si surgen.
+
+Ramas (Branches): Los desarrolladores pueden crear ramas separadas en un repositorio Git para trabajar en nuevas características o correcciones de errores sin afectar la rama principal (por lo general llamada "master" o "main"). Una vez que la nueva función o corrección está lista, se puede fusionar con la rama principal.
+
+Seguimiento de cambios: Git permite a los desarrolladores ver diferencias entre versiones, lo que facilita la identificación de problemas y la comprensión de cómo ha evolucionado un proyecto con el tiempo.
+
+Gestión de conflictos: Cuando dos o más personas realizan cambios en la misma parte de un archivo, Git ayuda a resolver los conflictos que surgen al fusionar estos cambios. Los desarrolladores pueden revisar y decidir cómo se deben combinar los cambios.
+
+Almacenamiento remoto: Los repositorios Git se pueden alojar en servidores remotos como GitHub, GitLab o Bitbucket. Esto permite que múltiples personas accedan y trabajen en un proyecto desde diferentes ubicaciones geográficas.
+
+Copias de seguridad: Git proporciona una copia de seguridad efectiva de un proyecto, ya que todos los cambios se registran en el historial. En caso de pérdida de datos o errores, es posible restaurar el proyecto a un estado anterior.
+
+Despliegue continuo: Git se utiliza en la integración continua y la entrega continua (CI/CD) para automatizar la construcción, pruebas y despliegue de software, lo que acelera el ciclo de desarrollo y garantiza una mayor calidad del software entregado.
+
+En resumen, Git es una herramienta esencial en el desarrollo de software que brinda control, seguimiento y colaboración en proyectos, lo que ayuda a los equipos de desarrollo a trabajar de manera eficiente y a mantener un registro detallado de los cambios realizados en el código fuente.
