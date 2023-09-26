@@ -9,7 +9,7 @@ public class Ejercicio_18 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese un numero");
         String num;
-        StringBuilder num2 = new StringBuilder();
+        String num2 = "";
         do {
            num = sc.next();
            if (isNumeric(num)) {
@@ -20,7 +20,7 @@ public class Ejercicio_18 {
         } while (!(isNumeric(num)));
         int largo = num.length();
         for (int i = 0; i < largo; i++) {
-            num2.append(num.charAt(largo - 1 - i));
+            num2 = num2.concat(num.substring(largo - 1 - i, largo-i));
 
         }
         System.out.println("invertido: "+num2);
