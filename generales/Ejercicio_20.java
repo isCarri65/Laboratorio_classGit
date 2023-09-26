@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio_20 {
     public static void main(String[] args){
-        int num, cipher = 0, higher = 0, positionHigher = 0, position = 0;
+        int num, cipher, higher = 0, positionHigher = 0, position = 0;
         Scanner reader= new Scanner(System.in);
 
         do{
