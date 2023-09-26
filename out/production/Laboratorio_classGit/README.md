@@ -1,1 +1,2 @@
-# Laboratorio_classGit
+# Laboratorio_classGit 
+# Grupo 7 de Espadas
