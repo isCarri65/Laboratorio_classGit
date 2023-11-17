@@ -20,7 +20,7 @@ public class Allexercise {
     }
     public static void  ejercicio1(){
         int longitdud;
-        String texto = JOptionPane.showInputDialog("Introduzca una frase: ");
+            String texto = JOptionPane.showInputDialog("Introduzca una frase: ");
         longitdud = texto.length();
         JOptionPane.showMessageDialog(null, "La longitud del texto es de: " + longitdud);
 
